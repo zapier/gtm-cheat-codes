@@ -1,0 +1,17 @@
+name: brand-guidelines-builder
+display_name: "Brand Guidelines Builder"
+gtm_function: "Marketing / Brand"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "brand-review-recommended"
+platform_layer_demonstrated:
+  - context
+  - governance
+  - harness
+primitive_activation_path:
+  - Zapier MCP for brand assets and docs
+tool_dependencies:
+  - Brand guidelines
+  - Asset library
+  - Figma optional
+target_user: "Brand / marketing"
+review_recommended: true

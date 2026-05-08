@@ -1,0 +1,18 @@
+name: named-account-trigger-radar
+display_name: "Named Account Trigger Radar"
+gtm_function: "Sales / ABM / RevOps"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - harness
+primitive_activation_path:
+  - Zapier MCP for CRM and authorized source synthesis
+tool_dependencies:
+  - CRM
+  - News or web research
+  - chat or collaboration tools
+  - Sheets or Tables
+target_user: "ABM / sales"
+review_recommended: true

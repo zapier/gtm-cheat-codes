@@ -1,0 +1,17 @@
+name: find-lead-account-owner
+display_name: "Find Lead Account Owner"
+gtm_function: "GTM Ops / RevOps"
+repo_status: "helper-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+primitive_activation_path:
+  - Zapier MCP for CRM and org data lookups
+tool_dependencies:
+  - CRM
+  - Org directory
+  - Google Sheets or Tables
+target_user: "GTM Ops"
+review_recommended: true

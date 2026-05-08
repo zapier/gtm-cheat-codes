@@ -1,0 +1,22 @@
+name: company-recording-clip
+display_name: "Company Recording To Postable Clip"
+gtm_function: "Content Ops / Social / Comms"
+repo_status: "stretch-v1-demo"
+privacy_level: "shareable-after-sanitized-example"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+primitive_activation_path:
+  - Zapier MCP for chat, Drive, Calendar, tracker, and approval routing
+  - Zapier SDK for clip request intake and approval handoff
+tool_dependencies:
+  - chat or collaboration tools
+  - Drive or video storage
+  - Calendar
+  - FFmpeg
+  - Whisper
+  - HyperFrames optional
+target_user: "Content ops"
+review_recommended: true

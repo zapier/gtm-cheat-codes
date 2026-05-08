@@ -1,0 +1,29 @@
+# AI Audit Account Report
+
+Builds account-specific AI audit packages from usage data, adoption gaps, and rep-ready follow-up.
+
+## Inputs
+
+- Account row
+- Usage metrics
+- Contact details
+- Rep owner
+- Optional video link
+
+## Outputs
+
+- Account signal summary
+- AI transformation hypothesis
+- Email copy
+- Video talk track
+
+## Setup
+
+1. Connect the required systems through Zapier MCP, the Zapier SDK, or the coding-agent connectors your team uses.
+2. Copy `SKILL.md` into your agent skill directory.
+3. Adapt `metadata.yaml` and `SCHEMA-MAP.md` to your approved systems.
+4. Run the onboarding prompt in `ONBOARDING-PROMPT.md` before the first real workflow.
+
+## Safety
+
+Keep a human approval step before sending messages, updating CRM fields, posting publicly, or changing source-of-truth records.

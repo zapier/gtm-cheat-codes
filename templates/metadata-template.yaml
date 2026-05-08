@@ -1,0 +1,15 @@
+name: example-skill
+display_name: "Example Skill"
+gtm_function: "Marketing"
+repo_status: "draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - tools
+primitive_activation_path:
+  - Zapier MCP
+tool_dependencies:
+  - CRM
+  - chat or collaboration tools
+target_user: "TBD"
+review_recommended: true

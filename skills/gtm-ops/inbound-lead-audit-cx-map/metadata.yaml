@@ -1,0 +1,18 @@
+name: inbound-lead-audit-cx-map
+display_name: "Inbound Lead Audit + CX Map"
+gtm_function: "GTM Ops / Marketing Ops"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - governance
+  - tools
+primitive_activation_path:
+  - Zapier MCP for CRM, chat, Sheets, and routing evidence
+tool_dependencies:
+  - CRM
+  - chat or collaboration tools
+  - Google Sheets
+  - Meeting scheduler
+target_user: "Marketing Ops"
+review_recommended: true

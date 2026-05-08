@@ -1,0 +1,20 @@
+name: no-lead-left-behind-lead-treatment-audit
+display_name: "No Lead Left Behind Lead Treatment Audit"
+gtm_function: "GTM Ops / Marketing Ops"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "advanced-review"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+primitive_activation_path:
+  - Zapier MCP for chat, CRM, Sheets, Gong-style systems
+  - Zapier SDK for daily audit automation
+tool_dependencies:
+  - CRM
+  - chat or collaboration tools
+  - Meeting intelligence
+  - Google Sheets or Tables
+target_user: "No Lead Left Behind / GTM Ops"
+review_recommended: true

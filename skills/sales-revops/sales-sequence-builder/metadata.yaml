@@ -1,0 +1,18 @@
+name: sales-sequence-builder
+display_name: "Sales Sequence Builder"
+gtm_function: "Sales / RevOps"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - harness
+  - governance
+primitive_activation_path:
+  - Zapier MCP for CRM, docs, and messaging context
+tool_dependencies:
+  - CRM
+  - Gmail or Outlook
+  - Google Docs
+  - chat or collaboration tools
+target_user: "Sales / GTM users"
+review_recommended: true

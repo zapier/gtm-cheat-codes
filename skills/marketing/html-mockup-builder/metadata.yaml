@@ -1,0 +1,18 @@
+name: html-mockup-builder
+display_name: "HTML Mockup Builder"
+gtm_function: "Marketing / Web"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - harness
+  - tools
+  - context
+primitive_activation_path:
+  - Zapier MCP for brief/source retrieval
+  - Zapier SDK for mockup request intake
+tool_dependencies:
+  - Design system docs
+  - Google Docs
+  - Asset library
+target_user: "Marketing web"
+review_recommended: true

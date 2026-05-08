@@ -1,0 +1,19 @@
+name: mmpe-ai-audit-account-report
+display_name: "AI Audit Account Report"
+gtm_function: "Sales / Midmarket"
+repo_status: "core-v1-scrubbed-draft"
+privacy_level: "adapt-before-use"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+primitive_activation_path:
+  - Zapier MCP for usage/account data access
+  - Zapier SDK for recurring report generation
+tool_dependencies:
+  - CRM
+  - Product usage data
+  - Sheets or warehouse
+  - Video tool optional
+target_user: "Midmarket sales"
+review_recommended: true
