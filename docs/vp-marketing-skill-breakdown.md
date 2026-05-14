@@ -40,4 +40,4 @@ For customer or executive conversations, lead with the business workflow, not th
 - Customer proof and storytelling
 - Content repurposing
 
-Then explain the system layer simply: MCP gives the coding agent permissioned access to business context, and SDK turns repeatable work into a reliable workflow with approval gates.
+Then explain the system layer simply: Zapier MCP gives the coding agent permissioned access to approved business context and actions, and Zapier SDK turns repeatable work into a reliable workflow with approval gates.

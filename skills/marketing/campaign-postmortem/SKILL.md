@@ -20,6 +20,12 @@ A marketing team needs to understand what happened in a campaign and turn the le
 7. Recommend what to repeat, change, or stop.
 8. Add an action register with owners, dates, and unresolved decisions when available.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to gather approved campaign docs, conversations, dashboards, CRM context, meeting notes, and tracker state.
+- Use Zapier SDK for retro intake, scheduled reminders, reviewer routing, action logging, and follow-up tracking.
+- Keep metrics, claims, and broad sharing review-gated.
+
 ## Output Format
 
 - Executive summary

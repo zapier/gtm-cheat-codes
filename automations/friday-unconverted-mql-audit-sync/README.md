@@ -12,16 +12,34 @@ End-of-week sync/check on hand-raiser audit status and reporting.
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Friday closeout schedule.
+
+## Inputs
+
+- Current tracker state
+- CRM status
+- Owner context
+- Meeting movement
+- Blockers
+
+## Outputs
+
+- Friday closeout summary
+- Accountability view
+- Follow-up log after approval
+
+## Zapier MCP Role
+
+Use Zapier MCP to read current tracker state, CRM status, owner context, and meeting movement.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for sync generation, follow-up logging, approval routing, and logs.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
+- Do not send rep or customer messages without approval.
 - Do not post long lead dumps.
 - Do not write source-of-truth records unless the run contract explicitly allows it.

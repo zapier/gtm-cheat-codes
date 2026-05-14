@@ -12,16 +12,35 @@ Weekly trend analysis for unconverted MQLs and hand-raiser follow-up quality.
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Weekly operating review schedule.
+
+## Inputs
+
+- Unconverted MQL cohort
+- CRM state
+- Tracker state
+- Meeting movement
+- Follow-up evidence
+
+## Outputs
+
+- Weekly pattern summary
+- Process gaps
+- Recommended fixes
+- Action tracker updates after approval
+
+## Zapier MCP Role
+
+Use Zapier MCP to read weekly CRM, tracker, meeting, and collaboration evidence.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for scheduled rollup generation, trend logging, action tracking, and routing.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
+- Do not send rep or customer messages without approval.
 - Do not post long lead dumps.
 - Do not write source-of-truth records unless the run contract explicitly allows it.

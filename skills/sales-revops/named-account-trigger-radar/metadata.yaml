@@ -7,8 +7,8 @@ platform_layer_demonstrated:
   - context
   - tools
   - harness
-primitive_activation_path:
-  - Zapier MCP for CRM and authorized source synthesis
+zapier_mcp_role: "Read CRM, account lists, approved internal signals, public research, and collaboration context"
+zapier_sdk_role: "Scheduled account watchlists, account-priority logging, and approved owner notifications"
 tool_dependencies:
   - CRM
   - News or web research

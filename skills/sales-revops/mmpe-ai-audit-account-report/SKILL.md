@@ -15,6 +15,12 @@ Use this skill when a sales team has account usage data and wants a personalized
 4. Draft a short report, video talk track, and follow-up email.
 5. Flag stale contacts or missing multithread paths.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read CRM, approved usage summaries, account context, and contact data.
+- Use Zapier SDK for recurring account report generation, rep-review routing, and approved follow-up logging.
+- Keep customer-facing messages, reports, and videos rep-approved.
+
 ## Guardrails
 
 - Use words like "signals" and "suggests" when interpreting data.

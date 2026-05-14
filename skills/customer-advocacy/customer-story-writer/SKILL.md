@@ -18,6 +18,12 @@ A team has customer source material and needs a clear story draft without generi
 5. Draft in the requested format with concrete details and plain language.
 6. Add a review checklist for quotes, metrics, customer approval, brand approval, and legal approval.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to retrieve approved transcripts, briefs, CRM context, content-library assets, and tracker state.
+- Use Zapier SDK when story intake, review routing, approval reminders, or tracker updates should run as a repeatable workflow.
+- Keep publishing and external sharing human-approved.
+
 ## Output Format
 
 - Recommended title

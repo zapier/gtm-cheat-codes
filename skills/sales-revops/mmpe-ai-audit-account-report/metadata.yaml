@@ -7,9 +7,8 @@ platform_layer_demonstrated:
   - context
   - tools
   - governance
-primitive_activation_path:
-  - Zapier MCP for usage/account data access
-  - Zapier SDK for recurring report generation
+zapier_mcp_role: "Read CRM, approved usage summaries, account context, and contact data"
+zapier_sdk_role: "Recurring account report generation, rep-review routing, and approved follow-up logging"
 tool_dependencies:
   - CRM
   - Product usage data

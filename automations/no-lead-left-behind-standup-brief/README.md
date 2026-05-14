@@ -12,16 +12,33 @@ Concise checkpoint brief focused on movement and blockers.
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Standup or operating-meeting schedule.
+
+## Inputs
+
+- Tracker movement
+- CRM changes
+- Blocker notes
+- Owner context
+
+## Outputs
+
+- Brief standup update
+- Key risks
+- Recommended owner actions
+
+## Zapier MCP Role
+
+Use Zapier MCP to read tracker movement, CRM changes, blocker notes, and owner context.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for scheduled brief generation, approved distribution, and logs.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
+- Do not send rep or customer messages without approval.
 - Do not post long lead dumps.
 - Do not write source-of-truth records unless the run contract explicitly allows it.

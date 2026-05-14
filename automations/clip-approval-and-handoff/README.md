@@ -12,16 +12,34 @@ Routes rendered clips for approval, logs assets, and creates distribution handof
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Clip asset marked ready for review.
+
+## Inputs
+
+- Clip asset
+- Source request
+- Approval owner
+- Publishing destination
+- Tracker row
+
+## Outputs
+
+- Approval message
+- Updated tracker status
+- Distribution handoff
+
+## Zapier MCP Role
+
+Use Zapier MCP to read clip assets, approval status, tracker rows, and publishing handoff context.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for approval routing, status logging, and distribution handoff.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
-- Do not post long lead dumps.
-- Do not write source-of-truth records unless the run contract explicitly allows it.
+- Do not publish or broadly share clips without approval.
+- Do not mark assets final until the approval owner signs off.
+- Do not write tracker state unless the run contract explicitly allows it.

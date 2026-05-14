@@ -7,8 +7,8 @@ platform_layer_demonstrated:
   - context
   - harness
   - governance
-primitive_activation_path:
-  - Zapier MCP for CRM, docs, and messaging context
+zapier_mcp_role: "Read CRM, approved campaign docs, account notes, and message context"
+zapier_sdk_role: "Sequence request intake, task creation, and approved draft logging"
 tool_dependencies:
   - CRM
   - Gmail or Outlook

@@ -7,9 +7,8 @@ platform_layer_demonstrated:
   - context
   - tools
   - governance
-primitive_activation_path:
-  - Zapier SDK for scheduled cockpit generation
-  - Zapier MCP for live source checks
+zapier_mcp_role: "Read live CRM records, tracker state, meeting status, and collaboration context"
+zapier_sdk_role: "Scheduled daily cockpit generation, state tracking, digest creation, and approval-routed updates"
 tool_dependencies:
   - CRM
   - Sheets or Tables

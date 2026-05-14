@@ -2,15 +2,14 @@
 
 > A practical starter kit of reusable GTM skills and automations for coding agents.
 
-This repository helps coding agents understand and use GTM workflows with Zapier MCP/SDK.
+This repository helps coding agents understand and use GTM workflows with Zapier MCP and Zapier SDK.
 
 ## Primary Entry Points
 
 - README.md: repo overview and usage guidance.
 - docs/vp-marketing-skill-breakdown.md: plain-English skill descriptions for GTM leaders.
 - registry/skills.csv: canonical skill list.
-- registry/mcp-sdk-requirements.md: primitive mapping.
-- docs/zapier-mcp-sdk-setup.md: setup guidance for agent harnesses.
+- docs/zapier-mcp-sdk-patterns.md: Zapier MCP and Zapier SDK setup guidance.
 - templates/skill-readme-template.md: expected skill documentation format.
 
 ## Core Skill Areas

@@ -6,17 +6,18 @@
 - Org directory
 - Google Sheets or Tables
 
-## Zapier MCP Path
+## Zapier MCP Setup
 
-1. Connect the systems above to Zapier.
-2. Add the Zapier MCP server to Codex, Claude Code, Cursor, or your preferred coding-agent harness.
-3. Confirm the agent can read the relevant source records and draft the intended output.
-4. Keep writes approval-gated until your team has reviewed the first few runs.
+1. Create a Zapier MCP server at `https://mcp.zapier.com`.
+2. Add only the Zapier MCP tools needed for the systems above.
+3. Connect each app account through Zapier.
+4. Test with read-only or draft-only work before enabling writes.
+5. Keep sends, posts, CRM writes, tracker updates, and publishing approval-gated.
 
-## Zapier SDK Path
+## Zapier SDK Setup
 
-Use the Zapier SDK when you want this workflow to run on a schedule, respond to a trigger, or write deterministic state to chat, CRM, Sheets, Tables, or a task system.
+Use Zapier SDK when this workflow needs code, state, schedules, retries, logs, or repeatable execution. Start with `npx zapier-sdk login`, then use the SDK CLI to discover apps, connections, and actions before writing workflow code. Prefer SDK pre-built actions when governance matters.
 
-## First Test
+## First Safe Test
 
-Run the skill on a sanitized example. Confirm source links, assumptions, owner fields, and output quality before using real customer or prospect data.
+Run the skill on a sanitized example. Confirm source links, assumptions, owner fields, approval gates, and output quality before using real customer or prospect data.

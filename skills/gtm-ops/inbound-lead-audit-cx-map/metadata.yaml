@@ -7,8 +7,8 @@ platform_layer_demonstrated:
   - context
   - governance
   - tools
-primitive_activation_path:
-  - Zapier MCP for CRM, chat, Sheets, and routing evidence
+zapier_mcp_role: "Read CRM timelines, routing evidence, tracker rows, meeting status, and collaboration context"
+zapier_sdk_role: "Scheduled audits, tracker updates, issue logging, and approval-routed summaries"
 tool_dependencies:
   - CRM
   - chat or collaboration tools

@@ -10,4 +10,4 @@ Goal:
 - Optionally create a lightly designed version.
 - Route approval before publishing or broad sharing.
 
-Use Zapier MCP/SDK for source discovery, approval routing, tracker logging, and handoff. Use media tooling such as FFmpeg, Whisper, and HyperFrames for the actual clipping and rendering.
+Use Zapier MCP for source discovery and approval context. Use Zapier SDK for request intake, approval routing, tracker logging, and handoff when the workflow should run repeatedly. Use media tooling such as FFmpeg, Whisper, and HyperFrames for the actual clipping and rendering.

@@ -22,6 +22,12 @@ Use this helper when a lead audit, hand-raiser workflow, or SDR worklist needs a
 4. If missing, inspect relevant open or recent deal owner.
 5. Enrich owner segment, team, manager, and account size from approved systems.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read CRM contact, company, deal, and ownership data.
+- Use Zapier SDK only when this helper becomes part of a repeatable lead audit, routing workflow, or SDR worklist.
+- Do not change owner assignments without explicit approval.
+
 ## Guardrails
 
 - Do not infer owner from timeline activity.

@@ -22,9 +22,9 @@ Describe the GTM job this skill helps with.
 - Review artifact
 - Writeback or handoff, if approved
 
-## Zapier MCP/SDK Path
+## Setup
 
-Explain where MCP supplies context/tools and where SDK can make the workflow durable.
+Point to `SETUP.md` for Zapier MCP and Zapier SDK configuration.
 
 ## Guardrails
 

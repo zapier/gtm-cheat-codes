@@ -12,16 +12,34 @@ Daily new-source audit plus booked-meeting tracker for high-intent leads.
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Daily schedule.
+
+## Inputs
+
+- New high-intent leads
+- CRM state
+- Owner assignment
+- Meeting status
+- Tracker rows
+
+## Outputs
+
+- Daily audit summary
+- Owner-ready next actions
+- Tracker updates after approval
+
+## Zapier MCP Role
+
+Use Zapier MCP to read live CRM, tracker, chat, and meeting context during each run.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for scheduling, state tracking, approved summary routing, and logs.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
+- Do not send rep or customer messages without approval.
 - Do not post long lead dumps.
 - Do not write source-of-truth records unless the run contract explicitly allows it.

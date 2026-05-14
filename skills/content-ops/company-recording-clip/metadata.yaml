@@ -8,9 +8,8 @@ platform_layer_demonstrated:
   - tools
   - governance
   - harness
-primitive_activation_path:
-  - Zapier MCP for chat, Drive, Calendar, tracker, and approval routing
-  - Zapier SDK for clip request intake and approval handoff
+zapier_mcp_role: "Source discovery, context grounding, approval owner lookup, and tracker reads"
+zapier_sdk_role: "Clip request intake, approval handoff, tracker logging, and distribution tasks"
 tool_dependencies:
   - chat or collaboration tools
   - Drive or video storage

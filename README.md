@@ -45,7 +45,7 @@ For a plain-English overview of each skill, start with `docs/vp-marketing-skill-
 1. Start with `docs/vp-marketing-skill-breakdown.md` for the business-level overview.
 2. Use `registry/skills.csv` to find the skill or automation pattern closest to your team’s workflow.
 3. Open the skill folder and read `README.md`, `SKILL.md`, `SETUP.md`, and `SCHEMA-MAP.md` where available.
-4. Map the workflow to your own approved systems through `docs/zapier-mcp-sdk-setup.md`.
+4. Map the workflow to your own approved systems through `docs/zapier-mcp-sdk-patterns.md`.
 5. Keep human approval gates in place before sending messages, updating CRM records, or publishing assets.
 
 ## Safety Bar

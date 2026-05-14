@@ -12,16 +12,34 @@ Collects source recording, target quote, approval owner, and destination for a c
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+New clip request form, chat request, or tracker row.
+
+## Inputs
+
+- Source recording
+- Target moment
+- Requester
+- Approval owner
+- Intended destination
+
+## Outputs
+
+- Validated request
+- Tracker row
+- Approval route
+
+## Zapier MCP Role
+
+Use Zapier MCP to read request details, source recording context, calendar context, and approval owner data.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for request intake, validation, tracker creation, routing, and logs.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
-- Do not post long lead dumps.
-- Do not write source-of-truth records unless the run contract explicitly allows it.
+- Do not download restricted recordings without approval.
+- Do not create external-use tasks until usage rights are clear.
+- Do not write tracker state unless the run contract explicitly allows it.

@@ -7,8 +7,8 @@ platform_layer_demonstrated:
   - context
   - tools
   - governance
-primitive_activation_path:
-  - Zapier MCP for CRM and org data lookups
+zapier_mcp_role: "Read CRM contact, company, deal, and ownership data"
+zapier_sdk_role: "Helper function inside repeatable lead audits, routing workflows, and SDR worklists"
 tool_dependencies:
   - CRM
   - Org directory

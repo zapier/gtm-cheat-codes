@@ -12,16 +12,33 @@ Daily SDR operating summary for unconverted hand-raisers to call and work.
 
 Automation spec. Review, adapt, and test before enabling.
 
-## Source
+## Trigger
 
-This package uses sanitized implementation guidance. Connect it to your approved systems before running.
+Daily SDR worklist schedule.
+
+## Inputs
+
+- Hand-raiser source list
+- CRM conversion status
+- Owner assignment
+- Meeting status
+
+## Outputs
+
+- Prioritized SDR call list
+- Context for each lead
+- Manager review notes
+
+## Zapier MCP Role
+
+Use Zapier MCP to read CRM, hand-raiser source data, owner assignment, and meeting status.
 
 ## Zapier SDK Fit
 
-This workflow is a good candidate for a Zapier SDK runner because it benefits from schedule/trigger handling, deterministic source reads, state tracking, and approval-gated chat or tracker updates.
+Use Zapier SDK for daily call-list generation, digest routing, state tracking, and logs.
 
 ## Approval Gates
 
-- Do not send rep/customer messages without approval.
+- Do not send rep or customer messages without approval.
 - Do not post long lead dumps.
 - Do not write source-of-truth records unless the run contract explicitly allows it.

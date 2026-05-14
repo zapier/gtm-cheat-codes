@@ -12,10 +12,16 @@
 - Sales deck library
 - Campaign brief or landing-page brief
 
-## Recommended Zapier Fit
+## Zapier MCP Setup
 
-- Use Zapier MCP to search approved customer assets, CRM context, and document folders.
-- Use Zapier SDK for proof-request intake, approval routing, and usage logging.
+1. Create a Zapier MCP server at `https://mcp.zapier.com`.
+2. Add tools for the approved customer content library, CRM, document folders, deck library, and approval tracker.
+3. Connect each app account through Zapier.
+4. Test by finding proof for an internal-only request and confirming approval metadata is visible.
+
+## Zapier SDK Setup
+
+Use Zapier SDK for proof-request intake, approval routing, usage logging, and asset-status updates. Start with `npx zapier-sdk login`, then use the SDK CLI to discover the app actions and connections the workflow needs.
 
 ## Review Gates
 

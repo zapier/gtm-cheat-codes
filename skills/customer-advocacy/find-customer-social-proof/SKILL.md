@@ -23,6 +23,12 @@ A marketer or seller needs credible customer proof and does not know which asset
 5. Return only proof that is approved or clearly label proof that needs approval.
 6. Include restriction notes and recommended next steps.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to search approved customer-proof sources, CRM context, asset folders, and deck libraries.
+- Use Zapier SDK for proof-request intake, approval routing, usage logging, and asset-status updates.
+- Keep names, logos, quotes, and metrics approval-gated before external use.
+
 ## Output Format
 
 - Best matches

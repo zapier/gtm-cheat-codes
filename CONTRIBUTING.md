@@ -12,6 +12,6 @@
 - Clear use case.
 - Source-backed workflow.
 - Human approval gates.
-- Zapier MCP/SDK activation path.
+- Clear Zapier MCP role and Zapier SDK role when relevant.
 - No sensitive company context.
 - Works in at least one agent harness.

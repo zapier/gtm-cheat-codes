@@ -17,9 +17,11 @@ Use this skill when a content, social, comms, or events team needs an agent to f
 6. Optionally create a designed HyperFrames version.
 7. Route the clip for human approval before publishing or sharing broadly.
 
-## Zapier MCP/SDK Role
+## Zapier MCP And SDK Role
 
-Zapier does not need to perform the media render. Use Zapier primitives for source discovery, context grounding, approval routing, tracker logging, and distribution handoff.
+- Use Zapier MCP to find source recordings, captions, calendar context, chat requests, approval owners, and tracker rows.
+- Use Zapier SDK for clip request intake, approval handoff, tracker logging, and distribution task creation.
+- Use media tooling for clipping and rendering; Zapier does not need to perform the media render.
 
 ## Guardrails
 

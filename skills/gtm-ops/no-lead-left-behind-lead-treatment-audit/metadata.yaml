@@ -8,9 +8,8 @@ platform_layer_demonstrated:
   - tools
   - governance
   - harness
-primitive_activation_path:
-  - Zapier MCP for chat, CRM, Sheets, Gong-style systems
-  - Zapier SDK for daily audit automation
+zapier_mcp_role: "Read CRM records, outreach history, meeting evidence, tracker rows, and collaboration context"
+zapier_sdk_role: "Daily audit runs, state tracking, follow-up queue creation, and approval-routed summaries"
 tool_dependencies:
   - CRM
   - chat or collaboration tools

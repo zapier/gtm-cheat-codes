@@ -15,6 +15,12 @@ Use this skill to turn a web or campaign idea into a reviewable HTML artifact.
 4. Use the team's design system tokens and component patterns.
 5. Verify responsive behavior before sharing.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read briefs, approved assets, design guidance, and source copy.
+- Use Zapier SDK for mockup request intake, artifact logging, and review routing when the workflow repeats.
+- Do not publish, deploy, or use customer assets without approval.
+
 ## Guardrails
 
 - Do not publish or deploy unless explicitly requested.

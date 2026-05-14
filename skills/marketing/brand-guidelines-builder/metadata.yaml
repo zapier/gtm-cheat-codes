@@ -7,8 +7,8 @@ platform_layer_demonstrated:
   - context
   - governance
   - harness
-primitive_activation_path:
-  - Zapier MCP for brand assets and docs
+zapier_mcp_role: "Read approved brand docs, asset libraries, and design references"
+zapier_sdk_role: "Optional repeatable review intake queue and feedback log"
 tool_dependencies:
   - Brand guidelines
   - Asset library

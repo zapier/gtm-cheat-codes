@@ -14,6 +14,12 @@ Use this skill to review creative assets, campaign ideas, or page concepts again
 3. Score alignment and explain issues in plain language.
 4. Provide prioritized fixes and escalation guidance.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read approved brand docs, asset libraries, and design references.
+- Use Zapier SDK only if the team wants a repeatable review intake queue or feedback log.
+- Keep official guideline changes and final external use human-approved.
+
 ## Guardrails
 
 - Do not invent brand rules.

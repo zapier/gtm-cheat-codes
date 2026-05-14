@@ -15,6 +15,12 @@ Use this skill to decide which named accounts sales or marketing should work now
 4. Return a short ranked list, not a generic market summary.
 5. Label weak or stale evidence rather than forcing a recommendation.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read CRM, account lists, approved internal signals, public research, and collaboration context.
+- Use Zapier SDK for scheduled account watchlists, account-priority logging, and approved owner notifications.
+- Keep CRM updates and outbound recommendations human-reviewed.
+
 ## Guardrails
 
 - Do not recommend accounts solely because they are large.

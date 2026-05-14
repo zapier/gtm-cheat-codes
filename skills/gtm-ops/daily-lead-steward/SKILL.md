@@ -15,6 +15,12 @@ Use this skill to keep a persistent operating view of high-intent leads, especia
 4. Generate a reviewable dashboard or digest.
 5. Update persistent state only after QA.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read live CRM records, tracker state, meeting status, and collaboration context.
+- Use Zapier SDK for scheduled daily cockpit generation, state tracking, digest creation, and approval-routed updates.
+- Keep source-of-truth writes and broad posts human-approved.
+
 ## Guardrails
 
 - Recommendation-only by default.

@@ -15,6 +15,12 @@ Use this skill to turn campaign context into a practical outbound package. It is
 4. After approval, draft subject lines, email steps, LinkedIn copy, and operator notes.
 5. Clearly label assumptions and unsupported claims.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read approved docs, CRM context, campaign notes, collaboration threads, and reference assets.
+- Use Zapier SDK for campaign request intake, scheduled package generation, review routing, and tracker logging.
+- Keep sends, CRM writes, public posts, and customer claims human-approved.
+
 ## Guardrails
 
 - Do not invent customer proof, usage data, executive participation, or operational support.

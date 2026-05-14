@@ -15,6 +15,12 @@ Use this skill to inspect how an inbound lead or hand-raiser was treated and pro
 4. Map the customer experience in plain language.
 5. Recommend the next owner action and any process fix.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read CRM timelines, routing evidence, tracker rows, meeting status, and collaboration context.
+- Use Zapier SDK for scheduled audits, tracker updates, issue logging, and approval-routed summaries.
+- Keep rep escalations and source-of-truth writes human-reviewed.
+
 ## Guardrails
 
 - Do not count historical meetings from prior cycles as current-cycle success.

@@ -7,9 +7,8 @@ platform_layer_demonstrated:
   - harness
   - tools
   - context
-primitive_activation_path:
-  - Zapier MCP for brief/source retrieval
-  - Zapier SDK for mockup request intake
+zapier_mcp_role: "Read briefs, approved assets, design guidance, and source copy"
+zapier_sdk_role: "Mockup request intake, artifact logging, and review routing"
 tool_dependencies:
   - Design system docs
   - Google Docs

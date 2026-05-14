@@ -6,8 +6,8 @@ privacy_level: "adapt-before-use"
 platform_layer_demonstrated:
   - context
   - tools
-primitive_activation_path:
-  - Zapier MCP
+zapier_mcp_role: "Approved context and curated app actions"
+zapier_sdk_role: "Durable workflow execution, if needed"
 tool_dependencies:
   - CRM
   - chat or collaboration tools

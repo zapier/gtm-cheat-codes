@@ -15,6 +15,12 @@ Use this skill when a GTM team needs rep-ready sequence copy for outbound, event
 4. Add operator notes for personalization, claims, and routing.
 5. Keep sensitive signals useful without sounding invasive.
 
+## Zapier MCP And SDK Role
+
+- Use Zapier MCP to read CRM, approved campaign docs, account notes, and message context.
+- Use Zapier SDK for sequence request intake, task creation, and approved draft logging when the workflow repeats.
+- Keep Gmail drafts, CRM tasks, sequence enrollment, and sends rep-approved.
+
 ## Guardrails
 
 - Do not blindly port copy from another campaign.

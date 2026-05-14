@@ -24,10 +24,10 @@ Ranks named accounts by actionability and turns signals into owner-ready next mo
 
 ## Setup
 
-1. Connect the required systems through Zapier MCP, the Zapier SDK, or the coding-agent connectors your team uses.
+1. Read `SETUP.md` for Zapier MCP and Zapier SDK configuration.
 2. Copy `SKILL.md` into your agent skill directory.
 3. Adapt `metadata.yaml` and `SCHEMA-MAP.md` to your approved systems.
-4. Run the onboarding prompt in `ONBOARDING-PROMPT.md` before the first real workflow.
+4. Run `ONBOARDING-PROMPT.md` before the first real workflow.
 
 ## Safety
 

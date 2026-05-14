@@ -8,9 +8,8 @@ platform_layer_demonstrated:
   - tools
   - governance
   - harness
-primitive_activation_path:
-  - Zapier MCP for chat, Docs, CRM, Sheets
-  - Zapier SDK for scheduled campaign package generation
+zapier_mcp_role: "Read approved docs, CRM context, campaign notes, collaboration threads, and reference assets"
+zapier_sdk_role: "Campaign request intake, scheduled package generation, review routing, and tracker logging"
 tool_dependencies:
   - chat or collaboration tools
   - Google Docs or Drive
