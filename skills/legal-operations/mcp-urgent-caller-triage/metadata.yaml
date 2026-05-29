@@ -22,5 +22,5 @@ review_recommended: true
 inspired_by:
   company: "Iron Noodle"
   champion: "Iron Noodle team"
-  story_url: null
+  story_url: "https://zapier.com/blog/iron-noodle-mcp"
   key_metric: "Reference implementation helps law firm teams identify urgent callbacks from transcripts and route context before outreach"

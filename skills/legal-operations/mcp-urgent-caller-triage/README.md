@@ -58,4 +58,4 @@ Use least-privilege connections. Keep callbacks, client-facing messages, matter 
 
 ## Inspired By
 
-This skill is generalized from Iron Noodle's legal automation work using Zapier MCP.
+This skill is generalized from Iron Noodle's legal automation work using Zapier MCP. Read the full story: [How an automation consultancy uses Zapier to rewire law firms in 9 days](https://zapier.com/blog/iron-noodle-mcp).
