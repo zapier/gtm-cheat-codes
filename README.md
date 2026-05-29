@@ -2,7 +2,7 @@
 
 Coding agents can help GTM teams turn scattered context into reviewable work products.
 
-This repo is a practical starter kit for GTM teams that want to use coding agents such as Codex, Claude Code, Cursor, and similar harnesses to automate repeatable work with real business context and human approval.
+This repo is a practical starter kit for GTM and customer operations teams that want to use coding agents such as Codex, Claude Code, Cursor, and similar harnesses to automate repeatable work with real business context and human approval.
 
 ## What This Is
 
@@ -15,7 +15,7 @@ This is not just a prompt library. It is a field guide for turning repeatable GT
 
 ## Start With The Business Problem
 
-If you are a marketing, sales, or ops leader, start here:
+If you are a marketing, sales, customer operations, or business operations leader, start here:
 
 - **Campaign planning:** turn briefs, launch notes, and source docs into campaign packages and page mockups.
 - **Campaign learning:** turn campaign data and team feedback into a sourced postmortem with clear next actions.
@@ -28,6 +28,7 @@ If you are a marketing, sales, or ops leader, start here:
 - **Customer storytelling:** turn approved interviews, notes, and proof points into customer story drafts.
 - **Content repurposing:** turn meetings and recordings into approved clips and distribution handoffs.
 - **Support triage:** help support reps research tickets across helpdesk, issue-tracking, backlog, and knowledge-base systems.
+- **Legal operations:** prioritize urgent client callbacks from call transcripts and approved case context.
 
 For a plain-English overview of each skill, start with `docs/vp-marketing-skill-breakdown.md`.
 
@@ -37,6 +38,7 @@ For a plain-English overview of each skill, start with `docs/vp-marketing-skill-
 - `skills/customer-advocacy/`
 - `skills/sales-revops/`
 - `skills/customer-support/`
+- `skills/legal-operations/`
 - `skills/gtm-ops/`
 - `skills/content-ops/`
 - `automations/`

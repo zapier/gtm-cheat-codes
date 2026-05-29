@@ -22,6 +22,7 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 - Named account trigger detection.
 - Cross-CRM opportunity and account coordination.
 - Support ticket triage.
+- Legal operations caller triage.
 - Lead treatment audits and lead stewardship.
 - SDR unconverted hand-raiser call lists.
 - Content ops, including meeting-recording clip creation.

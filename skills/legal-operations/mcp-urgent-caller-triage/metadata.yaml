@@ -1,0 +1,26 @@
+name: mcp-urgent-caller-triage
+display_name: "MCP Urgent Caller Triage For Law Firms"
+gtm_function: "Legal Operations"
+repo_status: "source-backed-v1"
+privacy_level: "approved_customer_story"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Read call transcripts, search legal client and matter records, gather approved status and activity context, and route masked callback summaries"
+zapier_sdk_role: "Optional scheduled transcript polling, callback dashboard updates, alert routing, retry handling, and KPI logging"
+tool_dependencies:
+  - Phone or VoIP transcript source
+  - Clio or legal case management system
+  - LLM connection
+  - Slack, email, or Google Sheets
+  - Optional calendar
+  - Optional billing system for coarse billing flags only
+target_user: "Law firm operations, client intake, support, and legal ops teams"
+review_recommended: true
+inspired_by:
+  company: "Iron Noodle"
+  champion: "Iron Noodle team"
+  story_url: null
+  key_metric: "Reference implementation helps law firm teams identify urgent callbacks from transcripts and route context before outreach"

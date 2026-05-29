@@ -1,8 +1,8 @@
-# VP Marketing Skill Breakdown
+# GTM Skill Breakdown
 
 Coding agents help GTM teams turn scattered context into useful work products: campaign plans, retros, customer proof, lead audits, account briefs, sales sequences, and content handoffs.
 
-Use this overview with marketing leaders and IT partners who need to map concrete use cases before connecting systems.
+Use this overview with marketing, sales, customer operations, business operations, and IT partners who need to map concrete use cases before connecting systems.
 
 | Skill | Use when / problem it solves | What it does |
 | --- | --- | --- |
@@ -18,6 +18,7 @@ Use this overview with marketing leaders and IT partners who need to map concret
 | AI Audit Account Report | A rep needs a practical account brief for an AI adoption or expansion conversation. | Builds an account-level report from approved usage and account context, including likely opportunities, gaps, and talk tracks. |
 | Cross-CRM Opportunity Sync | A company has multiple CRMs and deals, accounts, or customer records can get split across systems. | Keeps opportunity and account context aligned across CRMs, flags conflicts, preserves ownership and attribution, and creates a reviewable audit trail. |
 | Support Ticket Triage Agent | Support reps spend too much time researching each ticket across the helpdesk, bug tracker, backlog, and docs. | Pulls ticket context, searches the right systems in parallel, classifies the issue, and gives the rep a clear next action. |
+| MCP Urgent Caller Triage For Law Firms | A law firm needs to know which inbound callers need attention first before returning calls. | Reads call transcripts, classifies urgency, matches callers to approved case context, and prepares a prioritized callback list for human review. |
 | Inbound Lead Audit + CX Map | A leader wants to understand what happened after a high-intent lead raised their hand. | Reconstructs the lead journey from form fill to follow-up, showing what worked, what failed, and where the experience needs fixing. |
 | No Lead Left Behind Lead Treatment Audit | Marketing Ops or SDR leadership needs to catch missed, slow, or low-quality follow-up. | Audits lead handling, scores issues, resolves owners, and turns the findings into clear follow-up actions. |
 | Find Lead Account Owner | A lead needs routing and the owner is unclear across contact, company, and deal records. | Finds the best owner using a strict fallback path and explains which source decided it. |
