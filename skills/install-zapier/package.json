@@ -1,0 +1,36 @@
+{
+  "name": "@zapier/install-zapier",
+  "version": "0.1.0",
+  "description": "Install and connect Zapier. Routes an agent to the right surface (MCP, SDK, or CLI) for what the person needs.",
+  "type": "module",
+  "bin": {
+    "install-zapier": "bin/install.mjs"
+  },
+  "files": [
+    "SKILL.md",
+    "INSTALL-PATHS.md",
+    "bin/"
+  ],
+  "keywords": [
+    "zapier",
+    "mcp",
+    "sdk",
+    "cli",
+    "agent",
+    "skill",
+    "ai",
+    "claude",
+    "install"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zapier/team-marketing/zapier-gtm-cheat-codes.git",
+    "directory": "skills/install-zapier"
+  },
+  "homepage": "https://github.com/zapier/gtm-cheat-codes/tree/main/skills/install-zapier",
+  "license": "MIT",
+  "author": "Zapier <engineering@zapier.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
