@@ -1,0 +1,33 @@
+{
+  "name": "gtm-cheat-codes",
+  "description": "GTM Cheat Codes for Claude Code. Built and maintained by Zapier.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Zapier",
+    "email": "support@zapier.com",
+    "url": "https://zapier.com"
+  },
+  "homepage": "https://github.com/zapier/gtm-cheat-codes",
+  "repository": "https://github.com/zapier/gtm-cheat-codes",
+  "license": "MIT",
+  "keywords": [
+    "gtm",
+    "marketing",
+    "sales",
+    "customer-support",
+    "customer-advocacy",
+    "content-ops",
+    "legal-operations",
+    "agent-skills",
+    "zapier"
+  ],
+  "skills": [
+    "./skills/content-ops/",
+    "./skills/customer-advocacy/",
+    "./skills/customer-support/",
+    "./skills/gtm-ops/",
+    "./skills/legal-operations/",
+    "./skills/marketing/",
+    "./skills/sales-revops/"
+  ]
+}
