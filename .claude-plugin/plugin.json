@@ -20,5 +20,14 @@
     "legal-operations",
     "agent-skills",
     "zapier"
+  ],
+  "skills": [
+    "./skills/content-ops/",
+    "./skills/customer-advocacy/",
+    "./skills/customer-support/",
+    "./skills/gtm-ops/",
+    "./skills/legal-operations/",
+    "./skills/marketing/",
+    "./skills/sales-revops/"
   ]
 }
